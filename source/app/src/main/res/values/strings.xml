@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeCafeAndroid</string>
+    <string name="menu_home">menu_home</string>
+    <string name="open">open</string>
+    <string name="close">open</string>
+
+    <string name="main">Main</string>
+    <string name="management_menu">Management Menu</string>
+    <string name="management_order">ManagementOrder</string>
+    <string name="balance">Balance</string>
+    <string name="statistic">Statistic</string>
+</resources>

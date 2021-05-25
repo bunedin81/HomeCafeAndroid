@@ -1,0 +1,2 @@
+rootProject.name = "HomeCafeAndroid"
+include ':app'

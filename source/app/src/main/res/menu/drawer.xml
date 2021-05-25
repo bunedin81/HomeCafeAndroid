@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group>
+        <item
+            android:id="@+id/nav_main"
+            android:title="@string/main" />
+        <item
+            android:id="@+id/nav_management_menu"
+            android:title="@string/management_menu" />
+        <item
+            android:id="@+id/nav_management_order"
+            android:title="@string/management_order" />
+        <item
+            android:id="@+id/nav_balance"
+            android:title="@string/balance" />
+        <item
+            android:id="@+id/nav_statistic"
+            android:title="@string/statistic" />
+    </group>
+</menu>
