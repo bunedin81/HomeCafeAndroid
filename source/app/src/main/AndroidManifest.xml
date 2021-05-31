@@ -9,6 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".Balance"></activity>
+        <activity android:name=".ManagementOrder" />
+        <activity android:name=".ManagementMenu" />
+        <activity android:name=".ManagementMenu2" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

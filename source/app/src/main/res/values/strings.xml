@@ -6,7 +6,7 @@
 
     <string name="main">Main</string>
     <string name="management_menu">Management Menu</string>
-    <string name="management_order">ManagementOrder</string>
+    <string name="management_order">Management Order</string>
     <string name="balance">Balance</string>
     <string name="statistic">Statistic</string>
 </resources>
